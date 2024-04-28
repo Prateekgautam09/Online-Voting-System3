@@ -11,4 +11,3 @@ Dashboard Page: The dashboard consists of the number of voters, number of candid
 Candidates and Positions Page: The candidates page allows the admin user to add candidates into the election. The positions page allows the admin user to add the positions into the elections for which the candidates are standing for. This will be displayed on the screen as an appended list with the option of deleting the candidate or position.
 
 Voter Page: The voters page for now consists of three candidates, with their description for election. When the voter votes on any one candidate, an alert box will be shown displaying the candidate they have voted for and they will not be able to vote again. They will be redirected back to the index page.
-![Uploading image.png…]()
